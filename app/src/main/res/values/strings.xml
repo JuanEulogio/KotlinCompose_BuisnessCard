@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KotlinCompose_BuisnessCard</string>
+
+    <string name="name">Juan Carlos Eulogio Martinez</string>
+    <string name="title">UW-Madison student</string>
+
+    <string name="number">(608)123-4567</string>
+    <string name="github">https://github.com/JuanEulogio</string>
+    <string name="email">juanExample@gmail.com</string>
+
+</resources>
